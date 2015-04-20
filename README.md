@@ -6,8 +6,8 @@ Source was created for use by employees when generating documents requiring corp
 All reusable content called by the code had been removed from the code available here privacy reasons.
 
 ## References used:
-  https://msdn.microsoft.com/en-us/library/aa338202.aspx
-  http://gregmaxey.mvps.org/word_tip_pages/build_deploy_custom_bb_galleries.html
+- https://msdn.microsoft.com/en-us/library/aa338202.aspx
+- http://gregmaxey.mvps.org/word_tip_pages/build_deploy_custom_bb_galleries.html
 
 ## Contributors
 
