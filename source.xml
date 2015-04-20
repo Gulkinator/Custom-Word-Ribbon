@@ -2,7 +2,7 @@
 	<ribbon>
 		<tabs>
 			<tab idMso="TabInsert">
-				<group id="customGroup" insertBeforeMso="GroupInsertPages" label="Branded Parts">
+				<group id="customGroup" insertBeforeMso="GroupInsertPages" label="Branding">
 				<menu id="customButton" imageMso="PositionAbsoluteMarks" label="Contoso" size="large" >
 <menuSeparator id="Menuseparator1" title="Headers/Footers"/>
 					<gallery idMso="CustomHeaderGallery" label="Headers" imageMso="HeaderInsertGallery" />
