@@ -1,0 +1,30 @@
+[1mdiff --git a/source.xml b/source.xml[m
+[1mdeleted file mode 100644[m
+[1mindex 70f5f61..0000000[m
+[1m--- a/source.xml[m
+[1m+++ /dev/null[m
+[36m@@ -1,23 +0,0 @@[m
+[31m-<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">[m
+[31m-	<ribbon>[m
+[31m-		<tabs>[m
+[31m-			<tab idMso="TabInsert">[m
+[31m-				<group id="customGroup" insertBeforeMso="GroupInsertPages" label="Branding">[m
+[31m-				<menu id="customButton" imageMso="PositionAbsoluteMarks" label="Contoso" size="large" >[m
+[31m-<menuSeparator id="Menuseparator1" title="Headers/Footers"/>[m
+[31m-					<gallery idMso="CustomHeaderGallery" label="Headers" imageMso="HeaderInsertGallery" />[m
+[31m-      				 <gallery idMso="CustomFooterGallery" label="Footers" imageMso="FooterInsertGallery" />[m
+[31m-<menuSeparator id="Menuseparator2" title="Pages"/>[m
+[31m-					<gallery idMso="CustomGallery1" label="Templates" imageMso="CoverPageInsertGallery"/>[m
+[31m-					<gallery idMso="CustomCoverPageGallery" label="Cover Pages" imageMso="CoverPageInsertGallery" />[m
+[31m-<menuSeparator id="Menuseparator3" title="Other Reusable Content"/>[m
+[31m-      				<gallery idMso="CustomQuickPartsGallery" label="Logos" imageMso="QuickPartsInsertGallery" />[m
+[31m-	 				<gallery idMso="CustomWatermarkGallery" label="Watermarks" imageMso="WatermarkGallery" />[m
+[31m-					<gallery idMso="CustomAutoTextGallery" label="AutoText" imageMso="CustomAutoTextGallery" />[m
+[31m-					<gallery idMso="CustomTableOfContentsGallery" label="Table of Contents" imageMso="TableOfContentsGallery" />[m
+[31m-				</menu>[m
+[31m-				</group>[m
+[31m-			</tab>[m
+[31m-		</tabs>[m
+[31m-	</ribbon>[m
+[31m-</customUI>[m
+\ No newline at end of file[m
