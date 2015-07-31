@@ -1,11 +1,13 @@
-# Custom Microsoft Word Ribbon for Document Banding
-### Objective
+# Banding Tool
+### Description
 
-Source was created for use by employees when generating documents requiring corporate branding. When integrated into the Users Normal.doc file, for Microsoft word, the Microsoft Word interface is customized to display drop down  menus with options to insert logos, letterhead, watermarks, etc. managed by Corporate Branding Managers. 
+A Microsoft Word 2007 Add-In that integrates into the standard UI, a menu displaying resuable content to be inserted into the document, including headers, footers, logos, watermarks, that have been styled with corporate branding.  The contents displayed can be insterted into the document. This allows enterprise users to rapidly generate branded documents while allowing brand managers to control the content being offered to the User.  
 
-All reusable content called by the code had been removed from the code available here privacy reasons.
+### Deployment
 
-### References Used
+Add the xml source code to a Word file using [Custom UI Editor](http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2006/05/26/customuieditor.aspx).  Modify the custom building blocks as you would like them.  Replace users normal.doc file with the file you created. 
+
+### References
 - https://msdn.microsoft.com/en-us/library/aa338202.aspx
 - https://msdn.microsoft.com/en-us/library/aa722523.aspx
 - https://msdn.microsoft.com/en-us/library/aa338199(v=office.12).aspx
